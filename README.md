@@ -21,6 +21,6 @@ A Java console application developed as part of the CodeAlpha Java Programming I
 
 ## Author
 
-Akshaya Kommanapalli
+Akshaya Kommanapelli
 
 
